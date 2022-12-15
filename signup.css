@@ -48,6 +48,13 @@ body {
 
 
 
+
+.copy p {
+    margin-top: 8.5rem;
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     max-width: 500px;
     width: 100%;

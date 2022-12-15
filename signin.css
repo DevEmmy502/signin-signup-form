@@ -171,3 +171,10 @@ form {
     background-color: var(--dark-blue);
 
 }
+
+
+.copy p {
+    margin-top: 8.5rem;
+    display: flex;
+    justify-content: center;
+}

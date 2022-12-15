@@ -7,6 +7,14 @@
     padding: 0;
 }
 
+
+
+.copy p {
+    margin-top: 8.5rem;
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     align-items: center;
     padding-top: 30px;
@@ -23,17 +31,19 @@
 
 body {
     background: #e7ebf8;
+    min-height: 100vh;
 }
-.container img{
+
+.container img {
     width: 300px;
 }
 
-button{
+button {
     margin-top: 20px;
     padding: 7px;
-    background-color:#34c998 ;
+    background-color: #34c998;
     color: white;
     border: none;
     border-radius: 6px;
-    
+
 }
